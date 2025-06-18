@@ -1,7 +1,7 @@
 - 👋 Hi, it'z Noor
 - 👀 I’m interested in Coding and Data
 - 🌱 I’m currently learning Machine Leaning and App Development
-- 📫 Reach me on my email 'sknooralam1998@gmail.com'
+- 📫 Reach me on my email `sknooralam1998@gmail.com`
 - 😄 Eagger to Learn
 - ⚡ Fun fact: Still I am a rookie
 
